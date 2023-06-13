@@ -5,7 +5,7 @@
 
   <servers>
     <server>
-      <id>java-maven-app-snapshots</id>
+      <id>java-maven-app-snapshot</id>
       <username>admin</username>
       <password>Yuvan@0309</password>
     </server>
